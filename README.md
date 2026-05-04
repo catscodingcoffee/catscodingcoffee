@@ -24,8 +24,7 @@ I'm a high school Computer Science and Statistics teacher in the Portland, Orego
 
 ## 📚 Currently Learning
 
-- Swift / iOS development
-- Mobile app architecture
+- Front end development
 - Working with APIs (eBird, Claude)
 - Java and Python
 - Claude Code for AI-assisted development workflows
