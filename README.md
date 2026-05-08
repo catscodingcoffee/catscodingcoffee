@@ -9,7 +9,7 @@ I'm a high school Computer Science and Statistics teacher in the Portland, Orego
 - **Classroom automations** — Google Apps Script tools that streamline NHS application processing and automate administrative workflows, saving staff hours each week
 - **eBird + Java projects** — exploring the eBird API with Maven and OkHttp as I deepen my Java skills outside the classroom
 - **[Birding Website](https://www.birdingwithbrandon.com)** *(in progress)* — Oregon birding guide and hotspot-based quiz app. Built in React + TypeScript with user accounts and progress tracking. (Migrated from vanilla HTML/CSS/JS.)
-- **Student projects** — I teach and use GitHub Codespaces with my students so they build real version control habits from day one
+- **[Student projects](https://github.com/catscodingcoffee/StudentProjects/)** — I teach and use GitHub Codespaces with my students so they build real version control habits from day one
 
 ---
 
